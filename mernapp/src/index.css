@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'NHaasGroteskDSPro-65Md' !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#carousel{
+  max-height: 100pxl;
+}
+
+/* Assuming this is in your Cart.css or a similar stylesheet */
+
+.table th {
+  color: #00BC8C;
+}
+
+.table td {
+  color: #00BC8C;
+}
